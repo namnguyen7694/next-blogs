@@ -1,0 +1,9 @@
+body {
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  padding: 0;
+  max-width: 1440px;
+  margin: 0 auto;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+@import "~antd/dist/antd.css";
